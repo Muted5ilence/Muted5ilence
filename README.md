@@ -2,12 +2,9 @@
 - 👀 I’m interested in all things art: Illustration, Animation, Comics, Games, etc.
 - 🌱 I’m currently learning C#, python
 - 💞️ I’m looking to collaborate on nothing 😈
-- 📫 How to reach me:
+- 📫 How to reach me (Socials):
 IG: Muted5ilence
 Twitter: Muted5ilence
-Email: muted5ilence.business@gmail.com
-
-Other socials:
 Youtube: Muted5ilence
 Twitch: Muted5ilence
 
